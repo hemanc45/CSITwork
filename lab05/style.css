@@ -1,0 +1,67 @@
+/* heman chhantyal Lab 05 */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #038d6a;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 1rem 0 0 0;
+    gap: 1rem;
+  }
+  
+  nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  
+  .blog-container {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+  }
+  
+  .blog-post {
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 0;
+  }
+  
+  @media (min-width: 768px) {
+    .blog-container {
+      flex-direction: row;
+      gap: 1rem;
+    }
+  
+    .blog-post {
+      flex: 1;
+      border: 1px solid #ccc;
+      padding: 1rem;
+      margin: 0;
+    }
+  }
+  #lab02 {
+    background-color: #29817d; 
+    border: 2px solid #0c0c0c;
+  }
+  
+  #lab03 {
+    background-color: #599ff0; 
+    border: 2px solid #0a0a0a;
+  }
+  
+  #lab05 {
+    background-color: #02a037;
+  }
+  
