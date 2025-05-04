@@ -1,0 +1,119 @@
+<!-- lab09/employee.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+  <!-- Original entries (IDs corrected to be unique) -->
+  <employee id="be129">
+    <firstname>Jitendra</firstname>
+    <lastname>Kumar</lastname>
+    <title>Engineer</title>
+    <division>Materials</division>
+    <building>327</building>
+    <room>19</room>
+  </employee>
+  <employee id="be130">
+    <firstname>Amit</firstname>
+    <lastname>Kumar</lastname>
+    <title>Accountant</title>
+    <division>Accts Payable</division>
+    <building>326</building>
+    <room>14</room>
+  </employee>
+  <employee id="be131">
+    <firstname>Akash</firstname>
+    <lastname>Kumar</lastname>
+    <title>Engineering Manager</title>
+    <division>Materials</division>
+    <building>327</building>
+    <room>21</room>
+  </employee>
+  <employee id="be132">
+    <firstname>Aishwarya</firstname>
+    <lastname>Kulshrestha</lastname>
+    <title>Engineer</title>
+    <division>Materials</division>
+    <building>327</building>
+    <room>22</room>
+  </employee>
+  <employee id="be133">
+    <firstname>Sachin</firstname>
+    <lastname>Kumar</lastname>
+    <title>Engineer</title>
+    <division>Materials</division>
+    <building>327</building>
+    <room>24</room>
+  </employee>
+  <employee id="be134">
+    <firstname>Vikash</firstname>
+    <lastname>Kumar</lastname>
+    <title>COO</title>
+    <division>Management</division>
+    <building>216</building>
+    <room>26</room>
+  </employee>
+  <employee id="be135">
+    <firstname>Suvam</firstname>
+    <lastname>Basak</lastname>
+    <title>Accountant</title>
+    <division>Accts Payable</division>
+    <building>326</building>
+    <room>30</room>
+  </employee>
+  <employee id="be136">
+    <firstname>Abhinav</firstname>
+    <lastname>Kumar</lastname>
+    <title>COO</title>
+    <division>Management</division>
+    <building>216</building>
+    <room>32</room>
+  </employee>
+
+  <!-- Six additional employees -->
+  <employee id="be137">
+    <firstname>Neha</firstname>
+    <lastname>Patel</lastname>
+    <title>HR Specialist</title>
+    <division>Human Resources</division>
+    <building>214</building>
+    <room>10</room>
+  </employee>
+  <employee id="be138">
+    <firstname>Rohan</firstname>
+    <lastname>Sharma</lastname>
+    <title>Software Engineer</title>
+    <division>IT</division>
+    <building>318</building>
+    <room>12</room>
+  </employee>
+  <employee id="be139">
+    <firstname>Priya</firstname>
+    <lastname>Singh</lastname>
+    <title>Marketing Lead</title>
+    <division>Marketing</division>
+    <building>305</building>
+    <room>08</room>
+  </employee>
+  <employee id="be140">
+    <firstname>Vivek</firstname>
+    <lastname>Das</lastname>
+    <title>Data Analyst</title>
+    <division>Analytics</division>
+    <building>322</building>
+    <room>16</room>
+  </employee>
+  <employee id="be141">
+    <firstname>Karishma</firstname>
+    <lastname>Roy</lastname>
+    <title>UX Designer</title>
+    <division>Design</division>
+    <building>311</building>
+    <room>05</room>
+  </employee>
+  <employee id="be142">
+    <firstname>Manish</firstname>
+    <lastname>Gupta</lastname>
+    <title>Network Admin</title>
+    <division>IT</division>
+    <building>318</building>
+    <room>14</room>
+  </employee>
+</employees>
